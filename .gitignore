@@ -8,5 +8,9 @@ _site/
 node_modules/
 vendor/
 
+# Github
+.github/
+
 # Firebase
 .firebase/
+.firebaserc
