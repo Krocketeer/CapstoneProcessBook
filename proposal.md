@@ -3,7 +3,6 @@ layout: page
 title: Project Proposal
 nav_exclude: false
 nav_order: 2
-permalink: /proposal
 ---
 # Project Proposal
 {:.no_toc}

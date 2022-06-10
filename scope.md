@@ -3,7 +3,6 @@ layout: page
 title: Project Scoping
 nav_exclude: false
 nav_order: 1
-permalink: /scope
 ---
 # Project Scoping
 {:.no_toc}
