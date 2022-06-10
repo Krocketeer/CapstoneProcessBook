@@ -1,16 +1,27 @@
----
-layout: home
-title: Just the Class
-nav_exclude: true
-permalink: index.html
-seo:
-  type: Course
-  name: Just the Class
----
+[comment]: <> (---)
 
-# Just the Class
+[comment]: <> (layout: home)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+[comment]: <> (title: Dropbox Clip)
+
+[comment]: <> (nav_exclude: false)
+
+[comment]: <> (nav_order: 0)
+
+[comment]: <> (permalink: /)
+
+[comment]: <> (---)
+
+# Executive Summary
+
+Introducing Dropbox Clip, a multi-device clipboard with an expanded capacity.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ur5-U_L4FRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+When Dropbox first approached us, they wanted us to investigate how Gen-Z interact with files.
+
+This project was created to fulfill the requirements of a capstone project for the department of Human Centered Design 
+and Engineering at the University of Washington, Seattle.  
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
@@ -37,3 +48,7 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 ### Local development environment
 
 Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+To build: `bundle exec jekyll build`
+To run: `bundle exec jekyll serve -o`
+To run with live updates: `bundle exec jekyll serve -l`
