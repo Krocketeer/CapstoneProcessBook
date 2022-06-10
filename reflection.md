@@ -37,3 +37,5 @@ Looking back at the last 6 months, I honestly am so proud of the work that I've 
 It was such an amazing time working on this project with friends because of all the little memories we made in between 
 the late nights we had trying to get assignments in. I could not have asked for a better group or a better capstone
 experience and this will be something I will remember forever.
+
+![Team 2 Photo](../assets/images/team2.jpeg)

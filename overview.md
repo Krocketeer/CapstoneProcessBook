@@ -26,6 +26,11 @@ any other device that has Dropbox Clip as well can access that copied content. T
 content across devices regardless of operating system. Dropbox Clip can also hold up to six copied items at once,
 allowing users to retrieve past copies conveniently without having to search for them again.
 
+## Team Members
 
+{% assign team_members = site.staffers | where: 'role', 'Team Member' %}
+{% for staffer in team_members %}
+{{ staffer }}
+{% endfor %}
 
 
